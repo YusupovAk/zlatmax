@@ -1,0 +1,28 @@
+button{
+    background-color: transparent;
+    border: transparent;
+
+}
+.iogin_button{
+    display: flex;
+    transition: al .3s ease;
+}
+.iogin_button:hover {
+    transition: .3s;
+    background-color: grey;
+}
+.login_button:active{
+    background-color: blanchedalmond;
+}
+.container_text_line:active{
+    color: red;
+}
+.logo_z{
+    width: 200px;
+}
+.yellow_l{
+    color: rgb(200, 203, 0);
+}
+#header_ra{
+    justify-content: space-between;
+}

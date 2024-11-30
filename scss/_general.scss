@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+#header_c{
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+}
+ul,ol {
+  list-style-type: none;
+
+}
+.login_page{
+  padding-top: 20%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.divi{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style:solid;
+  border-color: black;
+}
+a{
+  text-decoration: none;
+}

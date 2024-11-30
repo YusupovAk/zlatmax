@@ -1,0 +1,36 @@
+.header{
+    background: black;
+}
+.header_l{
+    display: flex;
+    gap: 50px;
+}
+.header_r{
+    display: flex;
+    align-items: center;
+    gap: 30px
+}
+#header_c{
+    justify-content: space-between;
+}
+#logo_image{
+    width: 20px;
+}
+.header_p{
+    display: flex;
+    padding-top: 30px;
+    gap: 100px;
+    a{
+        color: black;
+    }
+}
+.zakaz{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.menu_bar_r{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
